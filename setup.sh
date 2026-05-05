@@ -93,7 +93,6 @@ setup_amd_rdna4() {
         mesa-libgbm \
         vulkan-loader \
         vulkan-tools \
-        mesa-vdpau \
         mesa-libOpenCL \
         || err "AMD sürücü paketleri kurulamadı."
 
